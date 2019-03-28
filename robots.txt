@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sookaaraih.info-metrics.org/sitemap.xml
